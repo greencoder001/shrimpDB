@@ -1,0 +1,28 @@
+{
+  "name": "shrimpdb",
+  "version": "1.0.0",
+  "description": "ShrimpDB is an database to storage data created by Green_Lab.",
+  "main": "shrimp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/shrimpDB.git"
+  },
+  "keywords": [
+    "shrimp",
+    "DB",
+    "Database"
+  ],
+  "author": "Green_Lab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greencoder001/shrimpDB/issues"
+  },
+  "homepage": "https://github.com/greencoder001/shrimpDB#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "https": "^1.0.0"
+  }
+}

@@ -1,2 +1,1 @@
-# shrimpDB
- 
+# ShrimpDB
